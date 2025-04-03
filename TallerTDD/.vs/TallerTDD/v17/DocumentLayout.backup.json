@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\behaviourtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\behaviourtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\tests\\tasknodetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\tests\\tasknodetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\tests\\selectortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\tests\\selectortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\tests\\sequencetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\tests\\sequencetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\bt\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\bt\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\bt\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\bt\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\tests\\compositetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\tests\\compositetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\tests\\roottests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\tests\\roottests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\bt\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\bt\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\bt\\tasknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\bt\\tasknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\bt\\waittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\bt\\waittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\bt\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\bt\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\tests\\behaviourtreetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\tests\\behaviourtreetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\tallertdd.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\tallertdd.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Documents\\GitHub\\TallerPoo\\TallerBT\\TallerBT\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\tallertdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\tallertdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\bt\\evennumbertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\bt\\evennumbertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|c:\\users\\ricar\\onedrive\\desktop\\parcial_2\\tallertdd\\tallertdd\\tests\\behaviourtreetests.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D97AE8-9041-4A04-9BC8-59D4098A5F3C}|TallerTDD\\TallerTDD.csproj|solutionrelative:tallertdd\\tests\\behaviourtreetests.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TallerTDD\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\obj\\Debug\\net8.0\\TallerTDD.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TallerTDD\\obj\\Debug\\net8.0\\TallerTDD.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\Root.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\BT\\Root.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\Root.cs",
+              "RelativeToolTip": "TallerTDD\\BT\\Root.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:05:17.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sequence.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\Sequence.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\BT\\Sequence.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\Sequence.cs",
+              "RelativeToolTip": "TallerTDD\\BT\\Sequence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:19:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sequenceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\sequenceTest.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\Tests\\sequenceTest.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\sequenceTest.cs",
+              "RelativeToolTip": "TallerTDD\\Tests\\sequenceTest.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:16:54.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "selectorTest.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\selectorTest.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\Tests\\selectorTest.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\selectorTest.cs",
+              "RelativeToolTip": "TallerTDD\\Tests\\selectorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T00:19:01.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompositeTests.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\CompositeTests.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\Tests\\CompositeTests.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\CompositeTests.cs",
+              "RelativeToolTip": "TallerTDD\\Tests\\CompositeTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:13:44.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RootTests.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\RootTests.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\Tests\\RootTests.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\RootTests.cs",
+              "RelativeToolTip": "TallerTDD\\Tests\\RootTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:08:01.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskNodeTests.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\TaskNodeTests.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\Tests\\TaskNodeTests.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\TaskNodeTests.cs",
+              "RelativeToolTip": "TallerTDD\\Tests\\TaskNodeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:18:19.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Program.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\Program.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Program.cs",
+              "RelativeToolTip": "TallerTDD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:32:42.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BehaviourTree.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BehaviourTree.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\BehaviourTree.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BehaviourTree.cs",
+              "RelativeToolTip": "TallerTDD\\BehaviourTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:46:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\Selector.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\BT\\Selector.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\Selector.cs",
+              "RelativeToolTip": "TallerTDD\\BT\\Selector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:21:29.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskNode.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\TaskNode.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\BT\\TaskNode.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\TaskNode.cs",
+              "RelativeToolTip": "TallerTDD\\BT\\TaskNode.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:17:19.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WaitTask.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\WaitTask.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\BT\\WaitTask.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\WaitTask.cs",
+              "RelativeToolTip": "TallerTDD\\BT\\WaitTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:23:39.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\Composite.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\BT\\Composite.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\Composite.cs",
+              "RelativeToolTip": "TallerTDD\\BT\\Composite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:12:10.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\TallerPoo\\TallerBT\\TallerBT\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\USUARIO\\Documents\\GitHub\\TallerPoo\\TallerBT\\TallerBT\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\TallerPoo\\TallerBT\\TallerBT\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\USUARIO\\Documents\\GitHub\\TallerPoo\\TallerBT\\TallerBT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:30:41.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BehaviourTreeTests.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\BehaviourTreeTests.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\Tests\\BehaviourTreeTests.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\BehaviourTreeTests.cs",
+              "RelativeToolTip": "TallerTDD\\Tests\\BehaviourTreeTests.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:02:27.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TallerTDD",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\TallerTDD.csproj",
+              "RelativeDocumentMoniker": "TallerTDD\\TallerTDD.csproj",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\TallerTDD.csproj",
+              "RelativeToolTip": "TallerTDD\\TallerTDD.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T19:48:16.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TallerTDD.csproj",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\TallerTDD.csproj",
+              "RelativeDocumentMoniker": "TallerTDD\\TallerTDD.csproj",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\TallerTDD.csproj",
+              "RelativeToolTip": "TallerTDD\\TallerTDD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T19:03:40.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EvenNumberTask.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\EvenNumberTask.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\BT\\EvenNumberTask.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\BT\\EvenNumberTask.cs",
+              "RelativeToolTip": "TallerTDD\\BT\\EvenNumberTask.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:25:38.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BehaviourTreeTests.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\BehaviourTreeTests.Designer.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\Tests\\BehaviourTreeTests.Designer.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\Tests\\BehaviourTreeTests.Designer.cs",
+              "RelativeToolTip": "TallerTDD\\Tests\\BehaviourTreeTests.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:06:05.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "TallerTDD\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:34:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TallerTDD.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\obj\\Debug\\net8.0\\TallerTDD.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TallerTDD\\obj\\Debug\\net8.0\\TallerTDD.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\Desktop\\Parcial_2\\TallerTDD\\TallerTDD\\obj\\Debug\\net8.0\\TallerTDD.AssemblyInfo.cs",
+              "RelativeToolTip": "TallerTDD\\obj\\Debug\\net8.0\\TallerTDD.AssemblyInfo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:33:56.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
