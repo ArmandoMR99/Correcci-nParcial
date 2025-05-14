@@ -1,3 +1,3 @@
 # Parcial_2
 
-Integrantes: Jose Builes y Ricardo Guerrero 
+Integrante: Armando Marulanda
